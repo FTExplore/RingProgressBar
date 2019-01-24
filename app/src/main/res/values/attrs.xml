@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ArcCircleProgressBar">
+        <attr name="radiusWidth" format="dimension" />
+        <attr name="strokeWidth" format="dimension" />
+        <attr name="bgColor" format="color" />
+        <attr name="progressColor" format="color" />
+    </declare-styleable>
+</resources>
